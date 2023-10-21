@@ -1,0 +1,12 @@
+{
+  "name": "todo-mock-server",
+  "version": "1.0.0",
+  "description": "A simple mock server to manage todo CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "start":"json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avinash",
+  "license": "ISC"
+}

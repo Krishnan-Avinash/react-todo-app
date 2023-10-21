@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "task": "Revise useState",
+      "status": false,
+      "id": 1
+    },
+    {
+      "task": "Revise useEffect",
+      "status": false,
+      "id": 2
+    },
+    {
+      "task": "Learn all HTTP requests",
+      "status": false,
+      "id": 3
+    },
+    {
+      "task": "Go through entire todo-app codebase",
+      "status": false,
+      "id": 4
+    },
+    {
+      "task": "Push the code to Git",
+      "status": false,
+      "id": 5
+    },
+    {
+      "task": "Deploy your todo app",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
